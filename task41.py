@@ -6,7 +6,7 @@
 # Входные данные:
 # WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW
 # Входные данные:
-# 12W1B12W3B24W1B14W
+# 12W1B12W3B24W1B14W 
 with open('41_RLE1_decoded.txt', 'r') as data:
     my_text = data.read()
 
